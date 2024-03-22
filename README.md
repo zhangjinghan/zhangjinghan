@@ -1,4 +1,5 @@
 ### Hi there 👋
+我是张静涵，四川大学24届硕士研究生，网络与信息安全专业，研究方向为图像隐写。
 
 <!--
 **zhangjinghan/zhangjinghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
